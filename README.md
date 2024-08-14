@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/Steel-Hard/Steel-Hard/blob/main/assets/logo-team.gif">
+</div>
 
 <!--
 **Steel-Hard/Steel-Hard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
